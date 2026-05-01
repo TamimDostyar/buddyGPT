@@ -1,0 +1,8 @@
+
+__pycache__
+trainedModels/encoder_vocab.pt
+trainedModels/gpt_finetuned_reddit.pt
+TDModel.pt
+.DS_Store
+data/clean/sft.jsonl
+data/*.json

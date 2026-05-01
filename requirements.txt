@@ -1,0 +1,4 @@
+torch>=2.0
+tokenizers>=0.15
+pandas>=2.0
+datasets>=2.14
